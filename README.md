@@ -1,4 +1,4 @@
-### Olá Mundo!
+### Olá Mundo! :earth_americas:
 
 Eu me chamo **Emily Rizo**, trabalho com edição de imagens e estamparia há mais de 10 anos. Agora estou em transição de carreira para a área da **Programação**, me dedicando intensamente na arte de criar pequenos mundos virtuais através de códigos e lógica. 👩‍💻
 
