@@ -1,6 +1,6 @@
 ### Olá Mundo! :earth_americas:
 
-Eu me chamo **Emily Rizo**, trabalho com edição de imagens e estamparia há mais de 10 anos. Agora estou em transição de carreira para a área da **Programação**, me dedicando intensamente na arte de criar pequenos mundos virtuais através de códigos e lógica. 👩‍💻
+Meu nome é **Emily Rizo**, tenho 39 anos e tenho mais de 12 anos de experiência como Designer autônoma. Estou em transição de carreira para a área de **Tecnologia** desde o início de 2023 e atualmente estou estagiando na **Compass.UOL**. Também estou cursando a faculdade de Desenvolvimento Full Stack na Universidade Estácio de Sá, com o objetivo de me especializar e conquistar meu espaço na área de TI. Sou movida pela vontade de aprender e aprimorar constantemente meus conhecimentos, além do forte desejo de crescer profissionalmente e consolidar minha carreira na Tecnologia. 👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-rizo/)
 
